@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @K03m0s
-- 👀 I’m interested in ... money
+- 👀 I’m interested in ... Money
 - 🌱 I’m currently learning ... Javascript
-- 💞️ I’m looking to collaborate on ... Notrhing
+- 💞️ I’m looking to collaborate on ... Nothing
 - 📫 How to reach me ... Dunno
 - 😄 Pronouns: ... ////////////
 - ⚡ Fun fact: ... ////////////
